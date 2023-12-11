@@ -166,6 +166,7 @@ text-align: left;
     display: flex;
     flex-direction: row;
     gap: 0.5rem;
+    max-width: 3500px;
   }
   
   .gallery .column {
