@@ -186,6 +186,10 @@ text-align: left;
     .gallery {
       flex-direction: column;
     }
+
+    .gallery .column {
+        width: 100%;
+      }
   }
 
 /* footer */
