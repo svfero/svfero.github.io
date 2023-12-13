@@ -5,6 +5,11 @@ body{
 
 }
 
+.container{
+    max-width: 1500px;
+    margin: auto;
+}
+
 /*nav nav naav nav nav nav*/
 
 .logo img{
