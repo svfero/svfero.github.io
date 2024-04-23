@@ -59,6 +59,7 @@ display: inline-block;
 display: none;
 position: absolute;
 background-color: white;
+width: 8rem;
 min-width: 4rem;
 box-shadow: 0rem 1rem 2rem 0rem rgba(0,0,0,0.2);
 z-index: 1;
